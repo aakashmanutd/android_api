@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task_name: MyString
+  description: MyText
+  points: 1
+  status: false
+
+two:
+  task_name: MyString
+  description: MyText
+  points: 1
+  status: false
